@@ -11,6 +11,7 @@ import Modal from 'react-bootstrap/Modal';
 
 const OperacionesList = (props) => {
 
+	
 	const OperacionesTitle = useRef(null);
 
 	const [Operaciones, setOperaciones] = useState([]);

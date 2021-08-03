@@ -6,6 +6,8 @@ import OperacionesList from '../components/OperacionesList';
 import Formulario from '../components/Form';
 
 function Home () {
+
+	
 	return (
 		<div className="container">
 			{/* <Counter /> */}

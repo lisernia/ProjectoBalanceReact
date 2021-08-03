@@ -9,6 +9,7 @@ import Table from 'react-bootstrap/Table';
 import Modal from 'react-bootstrap/Modal';
 import Form from 'react-bootstrap/Form';
 
+
 const Formulario = () => {
 
 	const submitHandler = e => {

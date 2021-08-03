@@ -14,7 +14,7 @@ yarn install
 yarn install
 ```
 
-3. Importar la base de datos `theMoviesDB.sql` en tu MySQL server.
+3. Importar la base de datos   en tu MySQL server.
 
 4. Poner a correr el servidor. Parado en la carpeta raíz:
 
